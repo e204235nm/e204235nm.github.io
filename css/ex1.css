@@ -1,0 +1,27 @@
+h1{
+    color: #ffffff;
+    text-align: center;
+    background-color: lightseagreen;
+}
+h2{
+    color: #ffffff;
+;
+    text-align: center;
+    background-color: aquamarine;
+}
+h3{
+    color: indigo;
+}
+p{
+    color: slategray;
+}
+body{
+    background-image: url(../images/haike02.jpg);
+}
+table{
+    background-color: azure
+}
+ol{
+    background-image: url(../images/yoko.jpeg);
+}
+}
