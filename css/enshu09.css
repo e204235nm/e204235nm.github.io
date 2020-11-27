@@ -1,0 +1,19 @@
+/*pタグの中でもbluecolorクラスのものだけ装飾*/
+.bluecolor{
+    color: blue;
+}
+/*h1タグの中でもnakaというidのやつだけを装飾*/
+h1#naka{
+    font-family: impact;
+    font-size: 60px;
+}
+
+h2{
+    color: red !imoortant;
+}
+h2{
+    color: green:
+}
+he:hover{
+    background-color: beigee;
+}
