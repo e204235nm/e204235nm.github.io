@@ -1,0 +1,30 @@
+h1#white{
+    color: white;
+    text-align: center;
+    background-color: lightseagreen;
+}
+
+h1#lightseagreen{
+    color: lightseagreen;
+    text-align: center;
+    background-color: white;
+}
+
+h2#darkturquoise{
+    color: darkturquoise;
+    text-align: center;
+    background-color:cornflowerblue;
+}
+
+h2#cornflowerblue{
+    color: cornflowerblue;
+    text-align: center;
+    background-color:darkturquoise;
+}
+
+p{
+    color: slategray;
+}
+body{
+    background-image: url(../images/haike02.jpg);
+}
