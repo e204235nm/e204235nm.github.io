@@ -1,0 +1,139 @@
+div.rap{
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 0px;
+}
+
+div.Title{
+    width: 1000px;
+    height: 50px;
+    background-color: white;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Courier";
+}
+
+div.menu1{
+    display: inline-block;
+    background-color: white;
+    width: 1000px;
+    height: 50px;
+    background-color: white;
+    overflow: hidden;
+}
+
+div.menu_1{
+    width:250px;
+    height: 50px;
+    background-color: white;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Courier";
+}
+
+div.image1{
+    width: 500px;
+    height: 250px;
+    background-image: url(../images/%E8%80%81%E5%AD%90.jpg);
+    font-size: 0px;
+}
+div.image2{
+    width: 500px;
+    height: 250px;
+    background-image: url(../images/JS%E3%83%9F%E3%83%AB.jpg);
+    
+}
+div.image3{
+    width: 500px;
+    height: 250px;
+    background-image: url(../images/%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9.jpg);
+}
+
+div.image4{
+    width: 500px;
+    height: 250px;
+    background-image: url(../images/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%9A%E3%83%B3%E3%83%8F%E3%82%A6%E3%82%A2%E3%83%BC.jpg);
+}
+
+div.image5{
+    width: 500px;
+    height: 250px;
+    background-image: url(../images/%E3%82%AD%E3%83%AB%E3%82%B1%E3%82%B4%E3%83%BC%E3%83%AB.jpg);
+}
+
+div.image6{
+    width: 500px;
+    height: 250px;
+    background-image: url(../images/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA.jpg);
+}
+
+div.image7{
+    width: 500px;
+    height: 250px;
+    background-image: url(../images/%E3%83%8B%E3%83%BC%E3%83%81%E3%82%A7.jpg);
+}
+
+div.image8{
+    width: 500px;
+    height: 250px;
+    background-image: url(../images/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%88%E3%83%86%E3%83%AC%E3%82%B9.jpg);
+}
+
+div.footer{
+    margin: 0 auto;
+    width: 1000px;
+    height: 50px;
+    background-color: white;
+    font-size: 16px;
+    text-align: right;
+    font-family: "Courier";
+}
+
+.sample1 {
+	width:500px;
+	height:250px;
+	overflow: hidden;
+	position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.sample1 .caption {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 80px;
+	color: #fff;
+    font-family: "SimSun"
+}
+
+.sample1 .mask {
+	width: 100%;
+	height:	100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	background-color: rgba(0,0,0,0.4);
+	-webkit-transition:	all 0.2s ease;
+	transition: all 0.2s ease;
+}
+
+.sample1:hover .mask {
+	opacity: 1;
+}
+
+a{
+  padding: 0 10px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgb(158, 200, 225) 50%);
+  background-position: 0 0;
+  background-size: 200% auto;
+  transition: .3s;
+  text-decoration: none;
+}
+
+a:hover{
+  background-position: -100% 0;
+  color: #fff;
+}
