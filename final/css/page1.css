@@ -79,3 +79,7 @@ a:hover{
   background-position: -100% 0;
   color: #fff;
 }
+
+a:link{
+    color: dimgray;
+}
